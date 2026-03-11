@@ -81,6 +81,8 @@
 - Learning **new technologies daily**  
 - Open to **collaboration & freelance projects**
 
+![snake gif](https://github.com/Jamaldev-code/Jamaldev-code/blob/output/github-contribution-grid-snake.gif)
+
 ---
 
 ## 📫 Contact Me
