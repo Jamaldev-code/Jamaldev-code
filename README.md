@@ -48,10 +48,9 @@
 
 ## 🐍 Contribution Snake
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Jamaldev-code/Jamaldev-code/main/github-contribution-snake.svg" alt="GitHub Snake Contribution" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jamaldev-code/Jamaldev-code/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution" />
 </p>
-
 ---
 
 ## 📁 Featured Projects
